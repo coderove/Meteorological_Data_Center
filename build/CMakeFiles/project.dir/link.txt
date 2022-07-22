@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/project.dir/public/_public.cpp.o CMakeFiles/project.dir/idc/src/crtsurfdata.cpp.o -o /home/coderove/workspace/code/Meteorological_Center/clion/project/bin/project 

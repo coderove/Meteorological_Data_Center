@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gzipfiles.dir/tools/src/gzipfiles.cpp.o CMakeFiles/gzipfiles.dir/public/_public.cpp.o -o /home/coderove/workspace/code/Meteorological_Center/clion/project/bin/gzipfiles 

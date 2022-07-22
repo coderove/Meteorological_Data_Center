@@ -1,0 +1,8 @@
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/crtsurfdata.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/procctl.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/checkproc.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/gzipfiles.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/deletefiles.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/ftpgetfiles.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/edit_cache.dir
+/home/coderove/workspace/code/Meteorological_Center/clion/project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ftpgetfiles.dir/public/_ftp.cpp.o CMakeFiles/ftpgetfiles.dir/tools/src/ftpgetfiles.cpp.o -o /home/coderove/workspace/code/Meteorological_Center/clion/project/bin/ftpgetfiles  -lpublic/libftp.a 

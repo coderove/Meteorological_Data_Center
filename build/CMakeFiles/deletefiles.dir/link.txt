@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/deletefiles.dir/tools/src/deletefiles.cpp.o CMakeFiles/deletefiles.dir/public/_public.cpp.o -o /home/coderove/workspace/code/Meteorological_Center/clion/project/bin/deletefiles 

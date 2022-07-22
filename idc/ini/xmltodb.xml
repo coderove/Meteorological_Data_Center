@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--该参数文件存放了数据中心入库参数。-->
+<xmltodb>
+  <filename>MDCTCODE_*.XML</filename><tname>CODE_MDCTCODE1</tname><uptbz>1</uptbz><execsql>delete from CODE_MDCTCODE1</execsql><endl/>
+  <filename>MDCMIND_*.XML</filename><tname>CODE_MDCMIND1</tname><uptbz>2</uptbz><endl/>
+</xmltodb>
